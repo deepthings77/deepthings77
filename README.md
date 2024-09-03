@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'm Deepak</h1>
+<h1 align="center">Hi everyone, this side Deepak</h1>
 <h3 align="center">Another Computer Science Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepthings77&label=Profile%20views&color=0e75b6&style=flat" alt="deepthings77" /> </p>
@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/deepthings77" target="blank"><img src="https://img.shields.io/twitter/follow/deepthings77?logo=twitter&style=for-the-badge" alt="deepthings77" /></a> </p>
 
-- 🔭 I’m currently working on [Projects](thatareinmybrain)
+- 🔭 I’m currently working on [MYSELF]((https://deepakkumawat.tech/))
 
-- 👯 I’m looking to collaborate on [Everything](possible)
-
-- 💬 Ask me about **nothing**
+- 👯 I’m looking to collaborate on [Anything that is Productive and supply pain to brain cells](possible)
 
 - 📫 How to reach me **projectsdeep7@gmail.com**
 
