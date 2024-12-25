@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/deepthings77" target="blank"><img src="https://img.shields.io/twitter/follow/deepthings77?logo=twitter&style=for-the-badge" alt="deepthings77" /></a> </p>
 
-- 🔭 I’m currently working on [MYSELF](https://deepakkumawat.tech/)
-
-- 👯 I’m looking to collaborate on [Anything that is Productive and supply pain to brain cells](https://deepakkumawat.tech/)
-
 - 📫 How to reach me **projectsdeep7@gmail.com**
 
 - ⚡ Fun fact **I am Boring...**
